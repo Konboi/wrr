@@ -1,0 +1,3 @@
+package: github.com/Konboi/wrr
+import:
+- package: github.com/pkg/errors
